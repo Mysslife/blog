@@ -7,6 +7,9 @@ const userRoute = require("./routes/users");
 const postRoute = require("./routes/posts");
 const cateRoute = require("./routes/categories");
 const cors = require("cors");
+const cors = require("cors");
+const cors = require("cors");
+const cors = require("cors");
 
 // Connect to DB:
 dotenv.config();
